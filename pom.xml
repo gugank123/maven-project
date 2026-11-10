@@ -1,0 +1,16 @@
+<project>
+   <plugins>
+     <plugin>
+       <groupId>com.example</groupId>
+       <artifactId>Junit-test</artifactId>
+       <version>10.5.1</version>
+     </plugin>
+   </plugins>
+   <dependencies>
+     <dependency>
+       <groupId>junit.test.org</groupId>
+       <artifactId>Junit-test</artifactId>
+       <version>10.5.1</version>
+     </dependency>
+   </dependencies>
+</project>
